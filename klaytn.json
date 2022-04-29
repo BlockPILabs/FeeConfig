@@ -6,7 +6,7 @@
   },
   {
     "method":"default",
-    "calBase":2,
-    "ruCost":3
+    "calBase":1000,
+    "ruCost":1
   }
 ]
